@@ -1,4 +1,12 @@
-## Hi there 👋
+# Terve! 👋
+### (That's hello in Finnish)
+
+I'm a Software Engineer at [Verdance LLC](https://verdance.co/).
+
+😄 Pronouns: He/Him
+📌 Current focus: Leveling up DevOps workflow automation and always striving to write cleaner, smarter  code
+📫 Reach me on LinkedIn: [https://www.linkedin.com/in/luke-short-33416397/](https://www.linkedin.com/in/luke-short-33416397/)
+
 
 <!--
 **lukey-luke/lukey-luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
