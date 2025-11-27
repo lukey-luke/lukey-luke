@@ -3,9 +3,9 @@
 
 I'm a Software Engineer at [Verdance LLC](https://verdance.co/).
 
-😄 Pronouns: He/Him
-📌 Current focus: Leveling up DevOps workflow automation and always striving to write cleaner, smarter  code
-📫 Reach me on LinkedIn: [https://www.linkedin.com/in/luke-short-33416397/](https://www.linkedin.com/in/luke-short-33416397/)
+- 😄 Pronouns: He/Him
+- 📌 Current focus: Leveling up DevOps workflow automation; always striving to write cleaner, smarter  code
+- 📫 Reach me on LinkedIn: [https://www.linkedin.com/in/luke-short-33416397/](https://www.linkedin.com/in/luke-short-33416397/)
 
 
 <!--
